@@ -14,7 +14,7 @@ The application should simulate a real-world customer service system using React
 </ul>
 <hr>
 
-🚀 Live Preview :- <a href="www.google.com">Live Bus-Booking Demo</a> 
+🚀 Live Preview :- <a href="https://redux-toolkit.js.org/tutorials/quick-start">Live Bus-Booking Demo</a> 
 
 🔮 Features :-
 <ul>
