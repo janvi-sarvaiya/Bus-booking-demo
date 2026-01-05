@@ -1,4 +1,4 @@
-<h3> Bus Booking App </h3> <br>
+<h3> Bus Booking App </h3> 
 Complete Responsive Bus booking demo using React js, Tailwind css, Zustand and React Query.<br> <br>
 
 Design and develop a small-scale web application that allows customers to search, view, book, and manage bus services.
@@ -29,4 +29,4 @@ The application should simulate a real-world customer service system using React
 <hr>
 
 🚀 Run json-server for Mock API :-
-<h4 style="background-color:'red'">npx json-server --watch ./public/data.json --port 8001</h4>
+<h4>npx json-server --watch ./public/data.json --port 8001</h4>
