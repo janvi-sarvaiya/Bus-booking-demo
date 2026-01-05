@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-green: #3aa08f;
+  /* --color-green: #A555EC */
+  --color-blue: #eef2ff;
+  --color-gray: #222831;
+  --color-dark-card: #393e46;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* tailwind color in hashcode */
+/* https://gist.github.com/guvener/d8952570d5a8be430580b93800519439 */
