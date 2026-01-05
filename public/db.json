@@ -8,12 +8,7 @@
       "to": "Mumbai",
       "seatsAvailable": 20,
       "price": 350,
-      "bookedSeats": [
-        11,
-        12,
-        15,
-        16
-      ]
+      "bookedSeats": [11, 12, 15, 16]
     },
     {
       "id": "2",
@@ -23,11 +18,7 @@
       "to": "Puna",
       "seatsAvailable": 20,
       "price": 550,
-      "bookedSeats": [
-        3,
-        4,
-        7
-      ]
+      "bookedSeats": [3, 4, 7]
     },
     {
       "id": "3",
@@ -38,26 +29,7 @@
       "seatsAvailable": 20,
       "price": 450,
       "bookedSeats": [
-        7,
-        8,
-        11,
-        12,
-        4,
-        3,
-        2,
-        1,
-        5,
-        6,
-        9,
-        10,
-        13,
-        14,
-        17,
-        18,
-        15,
-        16,
-        19,
-        20
+        7, 8, 11, 12, 4, 3, 2, 1, 5, 6, 9, 10, 13, 14, 17, 18, 15, 16, 19, 20
       ]
     },
     {
@@ -68,12 +40,7 @@
       "to": "Surat",
       "seatsAvailable": 20,
       "price": 300,
-      "bookedSeats": [
-        9,
-        10,
-        12,
-        11
-      ]
+      "bookedSeats": [9, 10, 12, 11]
     },
     {
       "id": "5",
@@ -83,11 +50,7 @@
       "to": "Delhi",
       "seatsAvailable": 20,
       "price": 700,
-      "bookedSeats": [
-        11,
-        12,
-        15
-      ]
+      "bookedSeats": [11, 12, 15]
     },
     {
       "id": "6",
@@ -97,10 +60,7 @@
       "to": "Indore",
       "seatsAvailable": 20,
       "price": 400,
-      "bookedSeats": [
-        7,
-        8
-      ]
+      "bookedSeats": [7, 8]
     },
     {
       "id": "7",
@@ -110,12 +70,7 @@
       "to": "Udaipur",
       "seatsAvailable": 20,
       "price": 650,
-      "bookedSeats": [
-        17,
-        18,
-        7,
-        8
-      ]
+      "bookedSeats": [17, 18, 7, 8]
     },
     {
       "id": "8",
@@ -125,13 +80,7 @@
       "to": "Delhi",
       "seatsAvailable": 20,
       "price": 500,
-      "bookedSeats": [
-        19,
-        20,
-        1,
-        2,
-        3
-      ]
+      "bookedSeats": [19, 20, 1, 2, 3]
     },
     {
       "id": "9",
@@ -141,11 +90,7 @@
       "to": "Surat",
       "seatsAvailable": 20,
       "price": 300,
-      "bookedSeats": [
-        1,
-        2,
-        3
-      ]
+      "bookedSeats": [1, 2, 3]
     },
     {
       "id": "10",
@@ -155,12 +100,7 @@
       "to": "Goa",
       "seatsAvailable": 20,
       "price": 350,
-      "bookedSeats": [
-        3,
-        4,
-        9,
-        10
-      ]
+      "bookedSeats": [3, 4, 9, 10]
     },
     {
       "id": "11",
@@ -170,11 +110,7 @@
       "to": "Goa",
       "seatsAvailable": 20,
       "price": 800,
-      "bookedSeats": [
-        3,
-        4,
-        5
-      ]
+      "bookedSeats": [3, 4, 5]
     },
     {
       "id": "12",
@@ -184,10 +120,7 @@
       "to": "Kolakata",
       "seatsAvailable": 20,
       "price": 550,
-      "bookedSeats": [
-        11,
-        12
-      ]
+      "bookedSeats": [11, 12]
     }
   ],
   "Booking": [
@@ -203,12 +136,7 @@
       "busName": "City Travel",
       "from": "Puna",
       "to": "Surat",
-      "selectedSeats": [
-        7,
-        8,
-        11,
-        12
-      ],
+      "selectedSeats": [7, 8, 11, 12],
       "totalPrice": 1800,
       "bookingDate": "2025-12-11T11:30:17.340Z"
     },
@@ -224,10 +152,7 @@
       "busName": "Megabus",
       "from": "Rajkot",
       "to": "Surat",
-      "selectedSeats": [
-        12,
-        11
-      ],
+      "selectedSeats": [12, 11],
       "totalPrice": 600,
       "bookingDate": "2025-12-11T11:31:12.380Z"
     },
@@ -243,12 +168,7 @@
       "busName": "Express Travels",
       "from": "Surat",
       "to": "Mumbai",
-      "selectedSeats": [
-        11,
-        12,
-        15,
-        16
-      ],
+      "selectedSeats": [11, 12, 15, 16],
       "totalPrice": 1400,
       "bookingDate": "2025-12-11T11:31:56.028Z"
     },
@@ -264,10 +184,7 @@
       "busName": "Megabus",
       "from": "Surat",
       "to": "Udaipur",
-      "selectedSeats": [
-        7,
-        8
-      ],
+      "selectedSeats": [7, 8],
       "totalPrice": 1300,
       "bookingDate": "2025-12-11T11:32:41.070Z"
     },
@@ -283,9 +200,7 @@
       "busName": "VRL Travels",
       "from": "Indore",
       "to": "Delhi",
-      "selectedSeats": [
-        3
-      ],
+      "selectedSeats": [3],
       "totalPrice": 500,
       "bookingDate": "2025-12-11T11:33:19.469Z"
     },
@@ -301,10 +216,7 @@
       "busName": "VRL Travels",
       "from": "Mumbai",
       "to": "Goa",
-      "selectedSeats": [
-        9,
-        10
-      ],
+      "selectedSeats": [9, 10],
       "totalPrice": 700,
       "bookingDate": "2025-12-11T11:33:54.606Z"
     },
@@ -321,22 +233,7 @@
       "from": "Puna",
       "to": "Surat",
       "selectedSeats": [
-        4,
-        3,
-        2,
-        1,
-        5,
-        6,
-        9,
-        10,
-        13,
-        14,
-        17,
-        18,
-        15,
-        16,
-        19,
-        20
+        4, 3, 2, 1, 5, 6, 9, 10, 13, 14, 17, 18, 15, 16, 19, 20
       ],
       "totalPrice": 7200,
       "bookingDate": "2025-12-11T11:34:58.774Z"
