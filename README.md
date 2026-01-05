@@ -26,3 +26,7 @@ The application should simulate a real-world customer service system using React
   <li>Responsive Website for all devices (Phone, Tablet, Laptop, Desktop)</li>
   <li>Clear, user-friendly interface </li>
 </ul>
+<hr>
+
+🚀 Run json-server for Mock API :-
+<h4 style="background-color:'red'">npx json-server --watch ./public/data.json --port 8001</h4>
