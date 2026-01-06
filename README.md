@@ -27,4 +27,11 @@ The application should simulate a real-world customer service system using React
 <hr>
 
 🚀 Run json-server for Mock API :-
-<h4>npx json-server --watch ./public/data.json --port 8001</h4>
+<h4>npx json-server --watch ./public/db.json --port 8001</h4>
+<hr>
+
+<img width="1499" height="866" alt="Screenshot from 2026-01-06 10-40-03" src="https://github.com/user-attachments/assets/b48e5988-8bdb-4408-a382-d70f183c91dc" />
+<img width="1499" height="866" alt="Screenshot from 2026-01-06 10-40-25" src="https://github.com/user-attachments/assets/cad930d2-0a68-437b-9164-230f08bd46bf" />
+<img width="355" height="795" alt="Screenshot from 2026-01-06 10-41-38" src="https://github.com/user-attachments/assets/8fd89276-474b-4ec2-a79e-54124d25c7be" />
+
+
