@@ -1,16 +1,30 @@
-# React + Vite
+<h3> Bus Booking App </h3> 
+Complete Responsive Bus booking demo using React js, Tailwind css, Zustand and React Query.<br> <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Design and develop a small-scale web application that allows customers to search, view, book, and manage bus services.
+The application should simulate a real-world customer service system using React, Zustand, React Query, and a JSON Server backend.
+<hr>
+💻 Tech Stack :- 
+<ul>
+  <li>Frontend Framework: React</li>
+  <li>Routing: React Router DOM</li>
+  <li>State Management: Zustand</li>
+  <li>Style (CSS): Tailwind CSS & MUI Library</li>
+  <li>Backend: JSON Server (Mock REST API)</li>
+</ul>
+<hr>
 
-Currently, two official plugins are available:
+🔮 Features :-
+<ul>
+  <li>Bus Selection with search and sort functionality and option to view seat availability for the selected bus.</li>
+  <li>Seat Selection with customer to select or deselect available seats and show total number of seats selected and the total fare amount</li>
+  <li>Booking with summary including</li>
+  <li>Customer Booking List with search and delete booking Funtionality</li>
+  <li>Dark & Light Mode Feature</li>
+  <li>Responsive Website for all devices (Phone, Tablet, Laptop, Desktop)</li>
+  <li>Clear, user-friendly interface </li>
+</ul>
+<hr>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Run json-server for Mock API :-
+<h4>npx json-server --watch ./public/data.json --port 8001</h4>
